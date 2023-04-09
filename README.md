@@ -11,6 +11,18 @@
 
 - 📫 How to reach me **M@Mosaed.tech**
 
+- 🤓 I’m currently learning everything "GeeK"
+
+- 👯 I’m looking forward to work with 
+
+- 🦸 The passion is for supporting the open source Community
+
+- 🔊 Tea is better than coffee 
+
+- 🎯 Createing my startup
+
+-  🎼 My favorite Quote is "Be a Doer, not just a Dreamer."
+
 - ⚡ Fun fact **Still Studying**
 
 <h3 align="left">Connect with me:</h3>
