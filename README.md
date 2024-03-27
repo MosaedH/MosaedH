@@ -7,10 +7,6 @@
 
 - 🔭 Check out my project on my [REPOS](https://github.com/MosaedH?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://www.Mosaed.tech](https://www.Mosaed.tech)
-
-- 📫 How to reach me **M@Mosaed.tech**
-
 - 🤓 I’m currently learning everything "GeeK"
 
 - 👯 I’m looking forward to work with 
