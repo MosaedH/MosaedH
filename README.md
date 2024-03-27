@@ -28,8 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mosaed-alhamwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosaed-alhamwan" height="30" width="40" /></a>
-<a href="https://instagram.com/nobody.960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobody.960" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/606737888515850240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="606737888515850240" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Weapons 🔫🔫🔫:</h3>
